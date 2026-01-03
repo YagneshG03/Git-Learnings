@@ -1,3 +1,0 @@
-username = yag
-pwd = abcxyz
-company = xyzabc
